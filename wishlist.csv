@@ -1,15 +1,16 @@
-ID,Name,Price,URL
-4741,Samsung Galaxy Tab S9,Rs. 70,000,https://www.samsung.com/in/galaxy-tab-s9/
-6695,Harry Potter Box Set (Books 1-7),Rs. 4,999,https://www.amazon.in/dp/12345
-3364,Nike Air Max Shoes (Size 9),Rs. 8,500,https://www.nike.com/in/air-max-shoes/
-
-ID,Name,Price,URL
-4741,Samsung Galaxy Tab S9,Rs. 70,000,https://www.samsung.com/in/galaxy-tab-s9/
-6695,Harry Potter Box Set (Books 1-7),Rs. 4,999,https://www.amazon.in/dp/12345
-3364,Nike Air Max Shoes (Size 9),Rs. 8,500,https://www.nike.com/in/air-max-shoes/
-
-ID,Name,Price,URL
-4741,Samsung Galaxy Tab S9,Rs. 70,000,https://www.samsung.com/in/galaxy-tab-s9/
-6695,Harry Potter Box Set (Books 1-7),Rs. 4,999,https://www.amazon.in/dp/12345
-3364,Nike Air Max Shoes (Size 9),Rs. 8,500,https://www.nike.com/in/air-max-shoes/
-
+id,name,price,url
+2244,Samsung Galaxy Tab S9,"Rs. 70,000",https://www.samsung.com/in/galaxy-tab-s9/
+5426,Harry Potter Box Set (Books 1-7),"Rs. 4,999",https://www.amazon.in/dp/12345
+1022,Nike Air Max Shoes (Size 9),"Rs. 8,500",https://www.nike.com/in/air-max-shoes/
+9202,Apple iPhone 15 Pro Max,"Rs. 1,79,900", https://www.apple.com/in/iphone-15-pro/
+5501,Sony WH-1000XM5 Noise Cancelling Headphones,"Rs. 34,990",https://www.sony.co.in/electronics/headband-headphones/wh-1000xm5
+8560,Fitbit Charge 5 Fitness and Health Tracker,"Price: Rs. 13,999",https://www.fitbit.com/global/in/products/trackers/charge5
+6144,Dyson V15 Detect Cordless Vacuum Cleaner,"Price: Rs. 59,900",https://www.dyson.in/vacuum-cleaners/dyson-v15-detect
+6858,Samsung 55-inch QLED 4K Smart TV,"Price: Rs. 74,990",https://www.samsung.com/in/televisions-qled-8k-4k/
+1289,Nike Air Force 1 Low Shoes,"Price: Rs. 7,995",https://www.nike.com/in/t/air-force-1-low-mens-shoes
+8275,The Lord of the Rings Trilogy (3 Book Set),"Rs. 1,299",https://www.amazon.in/dp/0261102365
+5480,GoPro HERO 11 Black Action Camera,"Rs. 47,500",https://www.gopro.com/en/in/shop/cameras/hero-11-black
+2519,Bose QuietComfort 45 Wireless Headphones,"Rs. 29,999",https://www.boseindia.com/en_in/products/headphones/over_ear_headphones/quietcomfort-45.html
+3352,"Apple MacBook Pro 14-inch (M2 Pro, 2023)","Rs. 1,99,900",https://www.apple.com/in/macbook-pro-14-and-16/
+6814,Sony WH-1000XM5 Wireless Noise Cancelling Headphones,"Rs. 29,990",https://www.sony.co.in/headphones/wh-1000xm5
+5524,"Kindle Paperwhite (8 GB) - With a 6.8"" Display","Rs. 14,999",https://www.amazon.in/dp/B08N36XNTT
